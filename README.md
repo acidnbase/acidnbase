@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @acidnbase
-- 👀 Passionate about Data Analytics, Data Science, and diving into the depths of Machine Learning.
-- 🌱 Currently cultivating my skills in the art of ML and AI.
-- 😄 Pronouns: He/Him
--    Let's transform data into insights and build intelligent systems together!
-
+- Aspiring Data Scientist, passionate about leveraging AI/ML to solve real-world problems. Skilled in Python, data science, model building and deployment. Eager to learn, grow, and contribute in dynamic AI/ML roles.
 
 <!---
 acidnbase/acidnbase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
